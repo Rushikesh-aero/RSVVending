@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="rsv:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/rsv_jar</output-path>
+    <root id="archive" name="rsv.jar">
+      <element id="module-output" name="rsv" />
+    </root>
+  </artifact>
+</component>
